@@ -37,10 +37,12 @@ public class PracticaMatrices {
         e4.buscarPlato();
         */
         
+        /*
         Ejercicio5 e5 = new Ejercicio5();
         e5.cargarhoras();
         e5.determinarHorasExtra();
         e5.mostrarHorasExtra();
+        */
         
         
     }
